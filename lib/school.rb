@@ -21,4 +21,6 @@ class School
     @roster[n]
   end
   
+  def sort
+  
 end
