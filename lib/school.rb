@@ -23,7 +23,9 @@ class School
   
   def sort
     sorted_h={}
-    
+    @roster.each {grade, names}
+      
+    end
   end
   
 end
