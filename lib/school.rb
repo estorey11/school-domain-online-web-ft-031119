@@ -22,5 +22,8 @@ class School
   end
   
   def sort
+    sorted_h={}
+    
+  end
   
 end
